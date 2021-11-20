@@ -1,0 +1,7 @@
+[
+    { 
+        "repository"   : "android_vendor_xiaomi_gauguin",
+        "target_path"  : "vendor/xiaomi/gauguin",
+        "branch"       : "eleven"
+    }
+]
